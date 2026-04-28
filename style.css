@@ -1,1 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle at top, #1a1a1a, #050505);
+    color: #f5f5f5;
+}
 
+/* CENTER HERO STYLE (your old vibe) */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+h1 {
+    color: gold;
+    font-size: 3rem;
+}
+
+button {
+    padding: 12px 28px;
+    border: none;
+    border-radius: 30px;
+    background: linear-gradient(135deg, gold, #b8860b);
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
